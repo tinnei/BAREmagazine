@@ -1,0 +1,1 @@
+Wordpress Theme for Bare Megazine. Modified header and index page from Wordpress’s official TwentyFifteenTheme.

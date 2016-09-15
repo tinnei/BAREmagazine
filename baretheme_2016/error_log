@@ -1,0 +1,32 @@
+[29-Feb-2016 15:52:23 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/header.php on line 12
+[29-Feb-2016 15:52:23 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[29-Feb-2016 15:52:23 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[29-Feb-2016 15:52:24 America/Denver] PHP Fatal error:  Call to undefined function do_action() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/footer.php on line 24
+[29-Feb-2016 15:52:26 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/archive.php on line 19
+[29-Feb-2016 15:52:27 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/404.php on line 10
+[12-Mar-2016 15:14:48 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[12-Mar-2016 15:14:48 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[12-Mar-2016 15:14:49 America/Denver] PHP Fatal error:  Call to undefined function do_action() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/footer.php on line 24
+[10-May-2016 03:20:31 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/index.php on line 17
+[10-May-2016 03:20:31 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/index.php on line 17
+[11-Jun-2016 12:36:52 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/404.php on line 10
+[07-Jul-2016 15:21:52 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[07-Jul-2016 15:21:52 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[26-Jul-2016 04:36:20 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/404.php on line 10
+[01-Aug-2016 17:22:08 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/archive.php on line 19
+[03-Aug-2016 07:27:51 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[03-Aug-2016 07:27:51 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[03-Aug-2016 15:48:00 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[03-Aug-2016 15:48:00 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[03-Aug-2016 22:33:43 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[03-Aug-2016 22:33:43 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[06-Aug-2016 01:04:21 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[06-Aug-2016 01:04:21 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[07-Aug-2016 08:58:10 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/header.php on line 12
+[07-Aug-2016 08:58:12 America/Denver] PHP Fatal error:  Call to undefined function do_action() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/footer.php on line 24
+[10-Aug-2016 02:02:59 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[10-Aug-2016 02:02:59 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[10-Aug-2016 19:22:14 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[10-Aug-2016 19:22:15 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
+[11-Aug-2016 07:19:41 America/Denver] PHP Notice:  Undefined index: wp_version in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 40
+[11-Aug-2016 07:19:41 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/baremaga/public_html/wp-content/themes/BareTheme_1.4.1/functions.php on line 41
